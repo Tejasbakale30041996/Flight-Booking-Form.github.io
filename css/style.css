@@ -24,7 +24,7 @@ div, h2, h3, h6, form, label {
     background: rgba(0, 0, 0, 0.78);
     width: 65%;
     margin: 0 auto;
-    background: url('img/plane-flight-sky-view.jpg') no-repeat;
+    background: url('plane-flight-sky-view.jpg') no-repeat;
     background-size: cover;
  
   }
