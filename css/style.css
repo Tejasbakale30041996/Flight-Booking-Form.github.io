@@ -21,7 +21,8 @@ div, h2, h3, h6, form, label {
   .booking-form-w3layouts {
     box-sizing: border-box;
     padding: 3em;
-    background: rgba(0, 0, 0, 0.78);
+/*     background: rgba(0, 0, 0, 0.78); */
+      background: #000;
     width: 65%;
     margin: 0 auto;
     background-size: cover;
